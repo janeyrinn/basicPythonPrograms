@@ -9,7 +9,7 @@ def translate(phrase):
                     translation = translation + "j"
         else:
             translation = translation + letter
-        return translation
+    return translation
 
 
 print(translate(input("Enter a phrase: ")))
