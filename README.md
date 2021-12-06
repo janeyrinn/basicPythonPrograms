@@ -7,3 +7,4 @@ A small collection of very basic python programs.
 3. Guessing game
 4. Encryptor
 5. Quiz
+6. Read & Write App
